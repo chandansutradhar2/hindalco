@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T09:49:48.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Zk1S3PwfyLXar_3Ha6Yp" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-01T09:50:12.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="JO2PN8KpWXrVR9QwaOJp" version="15.0.6" type="github" pages="5">
   <diagram id="-wx_hFGqF_muwXGGYDkv" name="Server Architecture">
     <mxGraphModel dx="813" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="2Yk4xec2wJ95b2cE5Ku7-11" value="Email Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="420" y="380" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-13" value="SCM Server Architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="170" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
