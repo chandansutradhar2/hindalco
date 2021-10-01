@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T09:43:19.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="WHNpANz5fQZ1uzIc6_ul" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-01T09:46:28.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="w75z8h8bSy_M-afAf-nz" version="15.0.6" type="github" pages="5">
   <diagram id="-wx_hFGqF_muwXGGYDkv" name="Server Architecture">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Yk4xec2wJ95b2cE5Ku7-1" target="2Yk4xec2wJ95b2cE5Ku7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Yk4xec2wJ95b2cE5Ku7-2" target="2Yk4xec2wJ95b2cE5Ku7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-2" value="SCM Web Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-3" value="DB Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="545.75" y="350" width="38.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-5" value="Active Directory" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Yk4xec2wJ95b2cE5Ku7-6" target="2Yk4xec2wJ95b2cE5Ku7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Yk4xec2wJ95b2cE5Ku7-6" target="2Yk4xec2wJ95b2cE5Ku7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Yk4xec2wJ95b2cE5Ku7-6" value="SCM REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
