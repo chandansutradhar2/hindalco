@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T09:41:48.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.0.6" etag="SYfRoJfDGpAK17wWJffV" type="github"><diagram id="-wx_hFGqF_muwXGGYDkv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T09:43:19.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="WHNpANz5fQZ1uzIc6_ul" version="15.0.6" type="github" pages="5">
+  <diagram id="-wx_hFGqF_muwXGGYDkv" name="Server Architecture">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pqOuprKopyQ4PAFECC9g" name="Auth Flow">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ssUuJgA0j0M2_CfdSPgo-0" />
+        <mxCell id="ssUuJgA0j0M2_CfdSPgo-1" parent="ssUuJgA0j0M2_CfdSPgo-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="W-YgPAcHpJWoKLhtNVfK" name="Quote Flow">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Ukli7cKGAxTdKah3BOB6-0" />
+        <mxCell id="Ukli7cKGAxTdKah3BOB6-1" parent="Ukli7cKGAxTdKah3BOB6-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VbY-RbcTZJS-7Vvs1YXp" name="Notification Flow">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OKmZYeOOWHlDCNJppRsl-0" />
+        <mxCell id="OKmZYeOOWHlDCNJppRsl-1" parent="OKmZYeOOWHlDCNJppRsl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_TF5_QkGKCh9EYcGL72p" name="Inventory Flow">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ETxOyz_G2P9km7AXxpNR-0" />
+        <mxCell id="ETxOyz_G2P9km7AXxpNR-1" parent="ETxOyz_G2P9km7AXxpNR-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
